@@ -8,6 +8,7 @@ body {
 .call-to-action {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 h1 {
