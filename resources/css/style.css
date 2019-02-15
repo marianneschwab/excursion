@@ -5,10 +5,9 @@ body {
   color: white;
 }
 
-.call-to-action {
-  color: aquamarine;
+.cta {
+  color: Aquamarine;
   font-size: 16px;
-  text-decoration: underline;
 }
 
 h1 {
