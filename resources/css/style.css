@@ -1,25 +1,23 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
-h1,
-h2,
-p {
-  font-family: Verdana, sans-serif;
-
+.call-to-action {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 h2 {
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
 p {
@@ -27,8 +25,6 @@ p {
   color: gray;
 }
 
-span {
-  color: aquamarine;
-  font-size: 16px;
-  text-decoration: underline;
+.footer {
+  text-align: right;
 }
