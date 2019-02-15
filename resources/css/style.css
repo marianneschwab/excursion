@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+h1,
+h2,
+p {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+span {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
