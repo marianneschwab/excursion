@@ -1,12 +1,13 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1,
 h2,
 p {
   font-family: Verdana, sans-serif;
-  text-align: center;
+
 }
 
 h1{
